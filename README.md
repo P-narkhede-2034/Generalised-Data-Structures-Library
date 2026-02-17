@@ -1,12 +1,10 @@
-# 📚 Generalised Data Structures Library (C++ Template Based)
+# Generalised Data Structures Library (C++ Template Based)
 
-## 👨‍💻 Author
+## Author
 **Pranav Manoj Narkhede**  
 Technology: **C++ (Object Oriented Programming + Templates)**  
 
----
-
-# 📌 1. Project Overview
+# 1. Project Overview
 
 The **Generalised Data Structures Library** is a C++ template-based reusable library that implements both **Linear and Non-Linear Data Structures** using Generic Programming.
 
@@ -25,13 +23,11 @@ This project strengthens understanding of:
 - Searching & Sorting Algorithms
 - Library Design Architecture
 
----
-
-# 🏗️ 2. Project Architecture
+# 2. Project Architecture
 
 The project is divided into two main layers:
 
-## 🔹 Library Layer
+##  Library Layer
 Contains:
 - Template classes
 - Node structures
@@ -40,7 +36,7 @@ Contains:
 
 This layer is reusable and independent.
 
-## 🔹 Client / Demo Layer
+##  Client / Demo Layer
 Contains:
 - Menu Driven Interface
 - User interaction
@@ -48,11 +44,9 @@ Contains:
 
 This helps to demonstrate functionality clearly.
 
----
+#  3. Implemented Data Structures
 
-# 📦 3. Implemented Data Structures
-
-## 🔵 Linear Data Structures
+##  Linear Data Structures
 
 - Singly Linear Linked List
 - Singly Circular Linked List
@@ -61,7 +55,7 @@ This helps to demonstrate functionality clearly.
 - Stack (LIFO)
 - Queue (FIFO)
 
-## 🔴 Non-Linear Data Structures
+##  Non-Linear Data Structures
 
 - Binary Search Tree (BST)
   - Insert
@@ -69,9 +63,7 @@ This helps to demonstrate functionality clearly.
   - Search
   - Traversals (Inorder, Preorder, Postorder)
 
----
-
-# 🧠 5. Generic Implementation (Template Based)
+#  5. Generic Implementation (Template Based)
 
 This project uses:
 
@@ -96,13 +88,11 @@ This makes the project:
 - Professional
 - Industry-ready
 
----
-
-# ⭐ 6. Highlight Feature – Menu Driven Demonstration
+# 6. Highlight Feature – Menu Driven Demonstration
 
 One of the major strengths of this project is:
 
-## 🔥 Menu Driven Code Interface
+## Menu Driven Code Interface
 
 The menu-driven system allows:
 
@@ -113,16 +103,14 @@ The menu-driven system allows:
 
 Example:
 
-```
 1. Singly Linear Linked List
 2. Doubly Linked List
 3. Stack
 4. Queue
 5. Binary Search Tree
 6. Exit
-```
 
-# 🛡️ 7. Error Handling & Validation
+#  7. Error Handling & Validation
 
 The project includes:
 
@@ -137,9 +125,7 @@ This ensures:
 - Crash prevention
 - Clean memory usage
 
----
-
-# 🎯 8. Learning Outcomes
+# 8. Learning Outcomes
 
 After completing this project:
 
@@ -150,11 +136,9 @@ After completing this project:
 ✔ Experience in building reusable C++ libraries  
 ✔ Menu-driven system design  
 
----
+# 9. How to Compile and Execute
 
-# 🚀 9. How to Compile and Execute
-
-## 🔹 Using g++ Compiler
+## Using g++ Compiler
 
 ### Step 1: Open terminal
 Navigate to project folder.
@@ -177,9 +161,7 @@ On Windows:
 app.exe
 ```
 
----
-
-# 🧪 10. How to Explore 
+#  10. How to Explore 
 
 After execution:
 
@@ -189,8 +171,6 @@ After execution:
 4. View result instantly
 
 Use exit option to terminate program safely.
-
----
 
 # 🔗 GitHub Repository
 
